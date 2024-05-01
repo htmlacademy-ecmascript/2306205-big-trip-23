@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Eugene Chepkasov](https://up.htmlacademy.ru/ecmascript/23/user/2306205).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Лепёшкин](https://htmlacademy.ru/profile/spearance).
 
 ---
 
